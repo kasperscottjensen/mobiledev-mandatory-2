@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765377522216",
+    "project_id": "mobiledev-mandatory-2",
+    "storage_bucket": "mobiledev-mandatory-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765377522216:android:39dd8531551994be01e31d",
+        "android_client_info": {
+          "package_name": "group.imagestudio9000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765377522216-vgabecm6qqrccknmddp9kr6nq151l7jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGbn6Xxw0Ou5YmDebUX4YFWrZHxXJZcyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765377522216-vgabecm6qqrccknmddp9kr6nq151l7jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
